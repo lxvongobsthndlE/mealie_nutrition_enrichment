@@ -1,0 +1,14 @@
+{
+  "mealie_base_url": "https://mealie.deine-domain.tld",
+  "spoonacular_api_key": "DEIN_SPOONACULAR_KEY",
+  "mealie_token": "DEIN_MEALIE_TOKEN",
+  "mealie_username": null,
+  "mealie_password": null,
+  "language": "de",
+  "per_page": 50,
+  "max_recipes": null,
+  "dry_run": true,
+  "delay_seconds": 0.5,
+  "enable_show_nutrition": false,
+  "only_if_missing_nutrition": true
+}
