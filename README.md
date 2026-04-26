@@ -44,7 +44,7 @@ Empfehlung zum Sparen von Spoonacular-Requests:
 ```bash
 python enrich_mealie_nutrition.py ^
   --config "config.example.json" ^
-  --mealie-base-url "https://mealie.lx-derpi-cloud.de" ^
+  --mealie-base-url "https://mealie.deine-domain.tld" ^
   --spoonacular-api-key "DEIN_KEY" ^
   --mealie-token "DEIN_MEALIE_TOKEN" ^
   --dry-run
@@ -55,7 +55,7 @@ python enrich_mealie_nutrition.py ^
 ```bash
 python enrich_mealie_nutrition.py ^
   --config "config.example.json" ^
-  --mealie-base-url "https://mealie.lx-derpi-cloud.de" ^
+  --mealie-base-url "https://mealie.deine-domain.tld" ^
   --spoonacular-api-key "DEIN_KEY" ^
   --mealie-user "dein.user" ^
   --mealie-password "deinPasswort" ^
@@ -67,7 +67,7 @@ python enrich_mealie_nutrition.py ^
 ```bash
 python enrich_mealie_nutrition.py ^
   --config "config.example.json" ^
-  --mealie-base-url "https://mealie.lx-derpi-cloud.de" ^
+  --mealie-base-url "https://mealie.deine-domain.tld" ^
   --spoonacular-api-key "DEIN_KEY" ^
   --mealie-token "DEIN_MEALIE_TOKEN"
 ```
